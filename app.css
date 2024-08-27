@@ -16,10 +16,10 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #ffcdcd;
-      --color-light: #ee6c6c;
-      --color: #EC6565;
-      --color-dark: #ca4e4e;
+      --color-lightest: #dddddd;
+      --color-light: #ede7e76f;
+      --color: #28262643;
+      --color-dark: #111111;
       --font: "Roboto", Helvetica, sans-serif;
   }
 
